@@ -8,3 +8,6 @@ Introducing a captivating blend of technology and creativity! 🤖✨ With this 
 📷 Gesture Recognition: Leverage the power of computer vision to detect and interpret your unique gestures, initiating commands with just a wave.
 
 🐳 Container Magic: From spinning up development environments to deploying applications, this script empowers you to control Docker containers like never before.
+
+🌐 **Connect with Me**
+- [LinkedIn](www.linkedin.com/in/md-azfar-alam)
