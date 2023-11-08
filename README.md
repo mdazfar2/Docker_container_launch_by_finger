@@ -5,7 +5,7 @@ Introducing a captivating blend of technology and creativity! 🤖✨ With this 
 
 🚀 Seamless Automation: Tired of typing out lengthy commands? Wave your fingers, and let the script handle the Docker container orchestration effortlessly.
 
-📷 Gesture Recognition: Leverage the power of computer vision to detect and interpret your unique gestures, initiating commands with just a wave
+📷 Gesture Recognition: Leverage the power of computer vision to detect and interpret your unique gestures, initiating commands with just a wave.
 
 🐳 Container Magic: From spinning up development environments to deploying applications, this script empowers you to control Docker containers like never before.
 
